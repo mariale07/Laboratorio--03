@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Estuardo Castillo\\source\\repos\\Ejemplo\\Ejemplo.csproj": {}
+    "C:\\Users\\Lucrecia De Palacios\\Documents\\GitHub\\Repo mari\\Laboratorio--03\\Laboratorio\\Ejemplo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Estuardo Castillo\\source\\repos\\Ejemplo\\Ejemplo.csproj": {
+    "C:\\Users\\Lucrecia De Palacios\\Documents\\GitHub\\Repo mari\\Laboratorio--03\\Laboratorio\\Ejemplo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Estuardo Castillo\\source\\repos\\Ejemplo\\Ejemplo.csproj",
+        "projectUniqueName": "C:\\Users\\Lucrecia De Palacios\\Documents\\GitHub\\Repo mari\\Laboratorio--03\\Laboratorio\\Ejemplo.csproj",
         "projectName": "Ejemplo",
-        "projectPath": "C:\\Users\\Estuardo Castillo\\source\\repos\\Ejemplo\\Ejemplo.csproj",
-        "packagesPath": "C:\\Users\\Estuardo Castillo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Estuardo Castillo\\source\\repos\\Ejemplo\\obj\\",
+        "projectPath": "C:\\Users\\Lucrecia De Palacios\\Documents\\GitHub\\Repo mari\\Laboratorio--03\\Laboratorio\\Ejemplo.csproj",
+        "packagesPath": "C:\\Users\\Lucrecia De Palacios\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lucrecia De Palacios\\Documents\\GitHub\\Repo mari\\Laboratorio--03\\Laboratorio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Estuardo Castillo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Lucrecia De Palacios\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

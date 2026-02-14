@@ -6,5 +6,5 @@ Console.WriteLine ("Maria Alejandra Montoya Pineda");
 Console.ReadLine ();
 // Ingresar aquí nombre y carnet del colaborador:
 
-Console.WriteLine("==========================================");
+Console.WriteLine("Dennis Jossue Palacios Diaz 1167726");
 Console.ReadLine();
